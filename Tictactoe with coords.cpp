@@ -1,8 +1,9 @@
-/* Fernando Davis Rivera
+/* I wanna kms
  * INGE 3016 M40
  * TicTacToe.cpp 
  * For: December 8, 2016
  */
+
 #include <iostream>
 #include <string>
 using namespace std;
